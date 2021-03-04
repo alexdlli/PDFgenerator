@@ -1,2 +1,0 @@
-# PDFgenerator
-Gerador de PDF
